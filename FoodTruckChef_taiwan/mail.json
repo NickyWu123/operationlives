@@ -1,0 +1,39 @@
+{
+    "version": "1.0",
+    "content": [
+        [
+            {
+                "item": "gem",
+                "quantity": 1000,
+                "message": "祝所有玩家新年快乐！1000钻石拿去，不要客气"
+            },
+            {
+                "item": "coin",
+                "quantity": 1000,
+                "message": "祝所有玩家新年快乐！1000金币拿去，不要客气"
+            },
+            {
+                "item": "diamond",
+                "quantity": 1000,
+                "message": "祝所有玩家新年快乐！1000宝石拿去，不要客气"
+            }
+        ],
+        [
+            {
+            "item": "card1",
+            "quantity": 1000,
+            "message": "祝所有玩家新年快乐！100卡牌1拿去，不要客气"
+            },
+            {
+                "item": "card2",
+                "quantity": 1000,
+                "message": "祝所有玩家新年快乐！100卡牌2拿去，不要客气"
+            },
+            {
+                "item": "card3",
+                "quantity": 1000,
+                "message": "祝所有玩家新年快乐！100卡牌3拿去，不要客气"
+            }
+        ]
+    ]
+}
